@@ -24,7 +24,7 @@ sections:
   - section_id: books
     type: section_reviews
     background: white
-    title: Series
+    title: Book Series
     subtitle: ''
     reviews:
       - author: John Doe

@@ -25,9 +25,7 @@ sections:
     type: section_reviews
     background: white
     title: Series
-    subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales.
+    subtitle: Aliquam m.
     reviews:
       - author: John Doe
         avatar: images/review1.jpg

@@ -21,7 +21,7 @@ sections:
       - label: Get Started
         url: /signup
         style: primary
-  - section_id: ''
+  - section_id: books
     type: section_reviews
     background: white
     title: Series

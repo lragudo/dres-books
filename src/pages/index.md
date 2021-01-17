@@ -24,7 +24,7 @@ sections:
   - section_id: ''
     type: section_reviews
     background: white
-    title: Testimonials
+    title: Series
     subtitle: >-
       Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
       semper libero id sodales.

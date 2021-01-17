@@ -27,7 +27,7 @@ sections:
     title: Book Series
     subtitle: ''
     reviews:
-      - author: Jane Roe
+      - author: 'E3 (ENMITY, ENTROPY & EXODUS)'
         avatar: images/review2.jpg
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero

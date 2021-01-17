@@ -13,6 +13,14 @@ sections:
       - label: Learn More
         url: /features
         style: primary
+  - section_id: call-to-action
+    type: section_cta
+    title: This Is Call To Action Block!
+    subtitle: This is an optional description for the call to action block.
+    actions:
+      - label: Get Started
+        url: /signup
+        style: primary
   - section_id: reviews
     type: section_reviews
     background: white
@@ -42,14 +50,6 @@ sections:
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
         type: review_item
-  - section_id: call-to-action
-    type: section_cta
-    title: This Is Call To Action Block!
-    subtitle: This is an optional description for the call to action block.
-    actions:
-      - label: Get Started
-        url: /signup
-        style: primary
   - section_id: recent-posts
     type: section_posts
     background: gray

@@ -21,7 +21,7 @@ sections:
       - label: Get Started
         url: /signup
         style: primary
-  - section_id: reviews
+  - section_id: ''
     type: section_reviews
     background: white
     title: Testimonials

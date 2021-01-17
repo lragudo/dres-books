@@ -25,7 +25,7 @@ sections:
     type: section_reviews
     background: white
     title: Series
-    subtitle: Aliquam m.
+    subtitle: ''
     reviews:
       - author: John Doe
         avatar: images/review1.jpg
